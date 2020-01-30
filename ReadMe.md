@@ -36,7 +36,7 @@ TMPGenc | HDCAM-SR
 - モジュールメソッドの汎用
 
 
-### SNSウェブ、ECサイトの広告クリエィティブ制作【ADOBE Creative Cloud/Slack】(2017〜2019年)
+### SNSウェブ、ECサイトの広告クリエィティブ制作【ADOBE Creative Cloud/Slack】(2017〜2020年)
 【プロジェクト詳細】
 料理メディアのECサイト運用における業務全般  
 アプリ開発から運用における業務全般
